@@ -1,0 +1,14 @@
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\bin\Release\net6.0\Week15OOPAndFiles.exe
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\bin\Release\net6.0\Week15OOPAndFiles.deps.json
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\bin\Release\net6.0\Week15OOPAndFiles.runtimeconfig.json
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\bin\Release\net6.0\Week15OOPAndFiles.dll
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\bin\Release\net6.0\Week15OOPAndFiles.pdb
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\Week15OOPAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\Week15OOPAndFiles.AssemblyInfoInputs.cache
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\Week15OOPAndFiles.AssemblyInfo.cs
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\Week15OOPAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\Week15OOPAndFiles.dll
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\refint\Week15OOPAndFiles.dll
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\Week15OOPAndFiles.pdb
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\Week15OOPAndFiles.genruntimeconfig.cache
+C:\Users\Ukupr\source\repos\Tööd\Week15\Week15OOPAndFiles\obj\Release\net6.0\ref\Week15OOPAndFiles.dll
